@@ -25,11 +25,7 @@ WanderPlan is an AI-powered travel companion built with Next.js that helps users
 
 ### Home Screen
 
-![Home Preview](image.png)
-
-### Generated Itinerary Result
-
-![Generated Result](results.png)
+![Home Preview](wanderpaln.png)
 
 ---
 
