@@ -1,7 +1,5 @@
 # WanderPlan
 
-![WanderPlan Home](wanderpaln.png)
-
 ## AI-Powered Travel Itinerary Generator
 
 WanderPlan is an AI-powered travel companion built with Next.js that helps users generate personalized travel itineraries based on destination, travel dates, budget, interests, and additional preferences.
